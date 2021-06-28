@@ -20,6 +20,7 @@
 project = 'how_to_opensource'
 copyright = '2021, Vianney'
 author = 'Vianney'
+version = "0.0.1"
 
 
 # -- General configuration ---------------------------------------------------
